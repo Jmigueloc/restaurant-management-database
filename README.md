@@ -14,7 +14,7 @@ This project simulates the database of a restaurant management system.
 
 The system manages:
 
-- Customers/Users/user/Desktop/Entrega2bd/restaurant-management-database/database
+- Customers
 - Employees
 - Products
 - Suppliers
